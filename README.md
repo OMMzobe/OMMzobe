@@ -26,7 +26,7 @@ I'm a passionate Data Scientist/Analyst with robust skills in data science, mach
 - **LinkedIn:** [Msizi Mzobe](https://www.linkedin.com/in/msizi-mzobe-8a2255108)
 
 ## 🏆 GitHub Stats
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-mzobe&show_icons=true&theme=radical)
+![Oscar's GitHub stats](https://github.com/OMMzobe/OMMzobe/edit/main)
 
 ## 🎈 Hobbies
 I enjoy playing chess and watching football, finding these activities not only relaxing but also strategic and stimulating.
