@@ -4,6 +4,7 @@
 I'm a passionate Data Scientist/Analyst with robust skills in data science, machine learning, and artificial intelligence, along with a strong background in education and stakeholder management. I thrive in roles that challenge my analytical and problem-solving abilities and am dedicated to leveraging data to drive decisions and insights.
 
 ## 💼 Experience
+- **Data Science Intern**, Sand Technologies, Johannesburg (August 2024 - December 2024)
 - **Educator**, Gauteng Department of Education, Johannesburg (April 2017 - January 2023)
   - Facilitated teaching, managed classrooms, and supported student development in a resource-constrained environment.
 - **Tutor**, Durban University of Technology, Durban (Jan 2015 - Dec 2016)
