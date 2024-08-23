@@ -1,6 +1,3 @@
-Thanks for sharing your CV details! With the information provided, we can create a compelling README for your GitHub profile repository. Here’s a structured draft based on your CV:
-
-```markdown
 # Welcome to Oscar Msizi Mzobe's Profile! 👋
 
 ## 🌟 About Me
@@ -38,4 +35,3 @@ I enjoy playing chess and watching football, finding these activities not only r
 
 Feel free to reach out if you want to collaborate on projects or need advice in the realm of data science and analytics!
 
-```
