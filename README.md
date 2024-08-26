@@ -22,7 +22,6 @@ I'm a passionate Data Scientist/Analyst with robust skills in data science, mach
 
 ## 📬 Contact Me
 - **Location:** Herons@Riverside, 4303 Barn Owl Crescent, Riverside View, Johannesburg, 2189
-- **Phone:** 0792171558
 - **Email:** [ommzobe@gmail.com](mailto:ommzobe@gmail.com)
 - **LinkedIn:** [Msizi Mzobe](https://www.linkedin.com/in/msizi-mzobe-8a2255108)
 
