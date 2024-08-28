@@ -29,7 +29,7 @@ I'm a passionate Data Scientist/Analyst with robust skills in data science, mach
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMMzobe&show_icons=true&theme=radical)
 
 ## 🎈 Hobbies
-I enjoy playing chess and watching football, finding these activities not only relaxing but also strategic and stimulating.
+I enjoy reading self-help books, playing chess and watching football, finding these activities not only relaxing but also strategic and stimulating.
 
 ---
 
