@@ -1,4 +1,3 @@
-
 ---
 
 # Hi, I'm Oscar Msizi Mzobe! 👋
@@ -20,6 +19,9 @@ I'm a passionate Data Scientist/Analyst with expertise in data analysis, machine
 
 ### Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%2304779C.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Database Management](https://img.shields.io/badge/Database_Management-%233D5C43.svg?style=for-the-badge&logo=data&logoColor=white)  
@@ -45,8 +47,8 @@ I'm a passionate Data Scientist/Analyst with expertise in data analysis, machine
 ---
 
 ## 🛠️ Skills
-- **Languages & Tools:** Python, SQL, Java, TensorFlow, Scikit-learn, Power BI, AWS, MLflow, Streamlit, Plotly, Jupyter Notebooks  
-- **Core Competencies:** Machine Learning, Data Analysis, Cloud Computing, Data Visualization, Database Management, Project Leadership  
+- **Languages & Tools:** Python, SQL, Java, TensorFlow, Scikit-learn, Power BI, AWS, MLflow, Streamlit, Plotly, Jupyter Notebooks, VS Code  
+- **Core Competencies:** Machine Learning, Data Analysis, Cloud Computing, Data Visualization, Database Management, Project Leadership, Recommender Systems, NLP, Time Series Forecasting  
 
 ---
 
@@ -70,10 +72,11 @@ I'm a passionate Data Scientist/Analyst with expertise in data analysis, machine
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=OMMzobe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OMMzobe&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMMzobe&theme=dark&hide_border=false&layout=compact)  
+
 
 ---
 
