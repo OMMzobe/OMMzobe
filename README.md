@@ -1,10 +1,11 @@
 
----
-
 # Hi, I'm Oscar Msizi Mzobe! 👋
 
 ## 🌟 About Me
-I'm a passionate Data Scientist/Analyst with expertise in machine learning, artificial intelligence, and data engineering. My skills range from predictive modeling and natural language processing to web app deployment and MLOps. I specialize in leveraging data-driven solutions to solve complex problems, and I thrive in collaborative, innovative environments.
+I am a Data Science professional with a passion for solving complex problems through data-driven insights and innovative technologies. As a Data Science Intern at Sand Technologies, I contributed to impactful projects, such as optimizing electric vehicle charging station placements using advanced spatial analysis and machine learning techniques. My expertise includes leveraging tools like Python, H3 spatial indexing, SQL and Power BI to deliver strategic and sustainable infrastructure solutions.
+
+I hold a strong foundation in machine learning, artificial intelligence, data visualization, and cloud computing. My skill set includes Python, SQL, AWS, Power BI, and a range of data engineering and analytical tools that enable me to design scalable pipelines and deploy machine learning models effectively.
+
 
 ---
 
