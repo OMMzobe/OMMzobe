@@ -1,4 +1,3 @@
-Here's the updated profile with the images included for each project:
 
 ---
 
@@ -45,7 +44,7 @@ I'm a passionate Data Scientist/Analyst with expertise in machine learning, arti
 ## 🚀 Key Projects
 
 - **Electric Vehicle Charging Station Placement**  
-Sep 2024 - PresentSep 2024 - Present
+  Sep 2024 - Dec 2024 
 
 As electric vehicles (EVs) become more popular, there’s a growing need for accessible charging infrastructure. Our project aimed to tackle this by identifying optimal locations for EV charging stations in Rwanda. We focused on balancing accessibility for users with the capabilities of the existing power grid, ensuring a sustainable approach to infrastructure development.
 
@@ -65,9 +64,11 @@ Skills: Machine Learning Modeling
 · Data Preprocessing & Feature Engineering 
 · Python for Machine Learning
 
+---
 
   
-- **Horse Racing Prediction Analysis**  
+- **Horse Racing Prediction Analysis**
+  Sep 2024 - Dec 2024
 
 The Horse Racing Prediction Project at Explore AI Academy in 2024 aimed to build a predictive model for horse racing outcomes. It analyzed key factors like race distance, track conditions, horse age, and prize distribution to uncover insights that influence race results. The goal was to enable strategic optimizations for enhancing performance and competitiveness in the field. The project utilized Python for data analysis and integrated interactive exploratory data analysis (EDA) techniques through tools like Plotly. These tools visualized trends and patterns in race data, helping to understand how various conditions impact outcomes. 
 
@@ -90,9 +91,10 @@ Python Programming: Data handling and model development.
 Visualization with Plotly: Creating interactive insights. 
 Predictive Modeling: Forecasting race outcomes accurately. 
 
+---
 
-
-- **Fusion-X Anime Recommender System**  
+- **Fusion-X Anime Recommender System**
+  July 2024 - Aug 2024
 ✨ Unveiling Personalized Anime Recommendations through Unsupervised Learning!
 
 As part of the Fusion-X Network initiative, I collaborated on developing a sophisticated recommender system for anime enthusiasts. This system leverages both collaborative and content-based filtering to deliver highly personalized anime suggestions based on users' historical preferences.
