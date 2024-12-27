@@ -53,12 +53,13 @@ I'm a passionate Data Scientist/Analyst with expertise in machine learning, arti
   In this project, I predicted race outcomes by analyzing key factors such as race length, track condition, horse age, and prize money. Using Python and Plotly, I performed exploratory data analysis (EDA) to uncover trends and relationships within the data. By applying a variety of machine learning models, I developed a prediction system designed to optimize racing strategies and improve decision-making. The project involved rigorous statistical analysis to validate the model’s performance and ensure accuracy in race predictions.  
   **Skills Applied:** EDA, Predictive Modeling, Statistical Analysis.  
   ![Horse Racing](https://github.com/OMMzobe/Horse-Racing/blob/main/Horse%20Race.jpg)
+  
   [GitHub Repo](#)
 
 - **Fusion-X Anime Recommender System**  
   I developed a personalized anime recommender system using unsupervised learning techniques. The system analyzes user preferences and historical data to suggest anime titles. I deployed this solution using Streamlit, providing an interactive platform where users can explore recommendations. The project also involved data preprocessing, model optimization, and continuous tuning to enhance recommendation accuracy, demonstrating my ability to build scalable recommendation systems and deliver personalized experiences in a web-based format.  
   **Skills Applied:** Recommender Systems, Data Preprocessing, Web App Deployment, Model Optimization.  
-  ![Anime Recommender](https://github.com/OMMzobe/Project-Images/blob/main/anime.png?raw=true)  
+  ![Anime Recommender](https://github.com/OMMzobe/Anime-Recommender-System/blob/main/anime1.jpg)  
   [GitHub Repo](#)
 
 ---
