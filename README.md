@@ -46,9 +46,9 @@ I'm a passionate Data Scientist/Analyst with expertise in machine learning, arti
 - **Electric Vehicle Charging Station Placement**  
   This project leveraged geospatial data, machine learning, and MLOps practices to identify optimal locations for electric vehicle (EV) charging stations, contributing to the development of sustainable infrastructure. I utilized spatial data processing to evaluate proximity to existing infrastructure, transformer capacity, and power grid supply, and applied machine learning models to predict the best locations for new stations. Additionally, I implemented MLOps principles to automate the solution's deployment and ensure scalability for real-time use.  
   **Skills Applied:** Geospatial Data Processing, Data Engineering, Predictive Modeling, MLOps.  
-  ![EV Charging Stations](https://github.com/OMMzobe/Project-Images/blob/main/ev-charging-station.jpg?raw=true)  
+   ![EV Charging Stations](https://raw.githubusercontent.com/OMMzobe/yourrepo/main/ev-charging-station.jpg)  
   [GitHub Repo](#)
-
+  
 - **Horse Racing Prediction Analysis**  
   In this project, I predicted race outcomes by analyzing key factors such as race length, track condition, horse age, and prize money. Using Python and Plotly, I performed exploratory data analysis (EDA) to uncover trends and relationships within the data. By applying a variety of machine learning models, I developed a prediction system designed to optimize racing strategies and improve decision-making. The project involved rigorous statistical analysis to validate the model’s performance and ensure accuracy in race predictions.  
   **Skills Applied:** EDA, Predictive Modeling, Statistical Analysis.  
