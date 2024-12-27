@@ -1,3 +1,4 @@
+Here's the updated profile with the images included for each project:
 
 ---
 
@@ -43,19 +44,22 @@ I'm a passionate Data Scientist/Analyst with expertise in machine learning, arti
 
 ## 🚀 Key Projects
 - **Electric Vehicle Charging Station Placement**  
-  Leveraged geospatial data, machine learning, and MLOps to identify optimal charging station locations, enhancing sustainable infrastructure.  
+  This project leveraged geospatial data, machine learning, and MLOps practices to identify optimal locations for electric vehicle (EV) charging stations, contributing to the development of sustainable infrastructure. I utilized spatial data processing to evaluate proximity to existing infrastructure, transformer capacity, and power grid supply, and applied machine learning models to predict the best locations for new stations. Additionally, I implemented MLOps principles to automate the solution's deployment and ensure scalability for real-time use.  
   **Skills Applied:** Geospatial Data Processing, Data Engineering, Predictive Modeling, MLOps.  
-  [GitHub Repo](#)  
+  ![EV Charging Stations](https://github.com/OMMzobe/Project-Images/blob/main/ev-charging-station.jpg?raw=true)  
+  [GitHub Repo](#)
 
 - **Horse Racing Prediction Analysis**  
-  Predicted race outcomes by analyzing key factors using Python, Plotly, and machine learning models.  
+  In this project, I predicted race outcomes by analyzing key factors such as race length, track condition, horse age, and prize money. Using Python and Plotly, I performed exploratory data analysis (EDA) to uncover trends and relationships within the data. By applying a variety of machine learning models, I developed a prediction system designed to optimize racing strategies and improve decision-making. The project involved rigorous statistical analysis to validate the model’s performance and ensure accuracy in race predictions.  
   **Skills Applied:** EDA, Predictive Modeling, Statistical Analysis.  
-  [GitHub Repo](#)  
+  ![Horse Racing](https://github.com/OMMzobe/Project-Images/blob/main/Horse%20Race.jpg?raw=true)  
+  [GitHub Repo](#)
 
 - **Fusion-X Anime Recommender System**  
-  Developed a personalized recommender system for anime titles using unsupervised learning. Deployed via Streamlit for interactive user engagement.  
+  I developed a personalized anime recommender system using unsupervised learning techniques. The system analyzes user preferences and historical data to suggest anime titles. I deployed this solution using Streamlit, providing an interactive platform where users can explore recommendations. The project also involved data preprocessing, model optimization, and continuous tuning to enhance recommendation accuracy, demonstrating my ability to build scalable recommendation systems and deliver personalized experiences in a web-based format.  
   **Skills Applied:** Recommender Systems, Data Preprocessing, Web App Deployment, Model Optimization.  
-  [GitHub Repo](#)  
+  ![Anime Recommender](https://github.com/OMMzobe/Project-Images/blob/main/anime.png?raw=true)  
+  [GitHub Repo](#)
 
 ---
 
@@ -79,7 +83,7 @@ I'm a passionate Data Scientist/Analyst with expertise in machine learning, arti
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=OMMzobe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OMMzobe&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMMzobe&theme=dark&hide_border=false&layout=compact)  
@@ -92,7 +96,7 @@ I'm a passionate Data Scientist/Analyst with expertise in machine learning, arti
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=OMMzobe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
