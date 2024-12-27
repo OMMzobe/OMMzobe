@@ -68,7 +68,6 @@ Skills: Machine Learning Modeling
 
   
 - **Horse Racing Prediction Analysis**
-  Sep 2024 - Dec 2024
 
 The Horse Racing Prediction Project at Explore AI Academy in 2024 aimed to build a predictive model for horse racing outcomes. It analyzed key factors like race distance, track conditions, horse age, and prize distribution to uncover insights that influence race results. The goal was to enable strategic optimizations for enhancing performance and competitiveness in the field. The project utilized Python for data analysis and integrated interactive exploratory data analysis (EDA) techniques through tools like Plotly. These tools visualized trends and patterns in race data, helping to understand how various conditions impact outcomes. 
 
@@ -94,7 +93,6 @@ Predictive Modeling: Forecasting race outcomes accurately.
 ---
 
 - **Fusion-X Anime Recommender System**
-  July 2024 - Aug 2024
 ✨ Unveiling Personalized Anime Recommendations through Unsupervised Learning!
 
 As part of the Fusion-X Network initiative, I collaborated on developing a sophisticated recommender system for anime enthusiasts. This system leverages both collaborative and content-based filtering to deliver highly personalized anime suggestions based on users' historical preferences.
