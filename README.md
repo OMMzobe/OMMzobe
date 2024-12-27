@@ -46,7 +46,7 @@ I'm a passionate Data Scientist/Analyst with expertise in machine learning, arti
 - **Electric Vehicle Charging Station Placement**  
   This project leveraged geospatial data, machine learning, and MLOps practices to identify optimal locations for electric vehicle (EV) charging stations, contributing to the development of sustainable infrastructure. I utilized spatial data processing to evaluate proximity to existing infrastructure, transformer capacity, and power grid supply, and applied machine learning models to predict the best locations for new stations. Additionally, I implemented MLOps principles to automate the solution's deployment and ensure scalability for real-time use.  
   **Skills Applied:** Geospatial Data Processing, Data Engineering, Predictive Modeling, MLOps.  
-   ![EV Charging Stations](https://raw.githubusercontent.com/OMMzobe/yourrepo/main/ev-charging-station.jpg)  
+   ![EV Charging Stations]("C:\Users\masin\OneDrive\Documents\Explore AI\Workplace\ev-charging-station.jpg")  
   [GitHub Repo](#)
   
 - **Horse Racing Prediction Analysis**  
