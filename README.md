@@ -65,7 +65,6 @@ Skills: Machine Learning Modeling
 · Data Preprocessing & Feature Engineering 
 · Python for Machine Learning
 
-[GitHub Repo](#)
 
   
 - **Horse Racing Prediction Analysis**  
@@ -91,7 +90,6 @@ Python Programming: Data handling and model development.
 Visualization with Plotly: Creating interactive insights. 
 Predictive Modeling: Forecasting race outcomes accurately. 
 
-[GitHub Repo](#)
 
 
 - **Fusion-X Anime Recommender System**  
@@ -116,7 +114,6 @@ This project showcases my ability to apply unsupervised learning, MLOps, and web
 
 Skills: Recommender System Development · Data Engineering and Preprocessing · MLOps with MLflow · Web App Deployment with Streamlit · Model Evaluation and Optimization  
 
-[GitHub Repo](#)
 
 ---
 
