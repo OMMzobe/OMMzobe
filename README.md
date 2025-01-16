@@ -46,16 +46,7 @@ I hold a strong foundation in machine learning, artificial intelligence, data vi
 ### **Electric Vehicle Charging Station Placement**  
 #### Sep 2024 - Dec 2024 
 
-As electric vehicles (EVs) become more popular, there’s a growing need for accessible charging infrastructure. Our project aimed to tackle this by identifying optimal locations for EV charging stations in Rwanda. We focused on balancing accessibility for users with the capabilities of the existing power grid, ensuring a sustainable approach to infrastructure development.
-
-Project Scope: The goal was to locate high-demand areas needing charging stations based on data like population density, building locations, road access, and power grid capacity. By combining this information, we could prioritize areas where new charging stations would serve the most users without overloading the grid.
-
-Data-Driven Insights: Using geospatial analysis with the H3 hexagonal grid system, we divided the region into small cells, which allowed for detailed demand mapping. By analyzing each cell’s proximity to transformers and population density, we identified locations that could support new stations sustainably.
-
-Technical Approach:
-- Geospatial Analysis: Mapped demand across cells for precise placement.
-- Distance & Capacity Analysis: Assessed transformer load capacity and calculated distances to nearby cells to find feasible, efficient locations.
-- Outcome & Impact: The project produced a strategic roadmap for EV station placement, optimizing station locations to meet current demand while supporting Rwanda’s shift toward eco-friendly transportation. By enabling convenient charging access, this project contributes to reducing emissions and promoting sustainable energy use.
+As electric vehicles (EVs) gain popularity, Rwanda faces the challenge of building accessible and sustainable charging infrastructure. Our project aimed to identify optimal locations for EV charging stations by balancing user accessibility with the power grid’s capacity. Using geospatial analysis with the H3 hexagonal grid system, we divided the region into cells to map demand based on population density, building locations, road access, and proximity to transformers. This approach allowed us to pinpoint high-demand areas while ensuring stations wouldn’t overload the grid. By assessing transformer capacity and distances between cells, we proposed feasible, efficient station locations. The result was a strategic roadmap for EV infrastructure, supporting Rwanda’s transition to greener transportation. This project not only enhances EV accessibility but also aligns with the country’s sustainable energy goals, reducing emissions and promoting eco-friendly development. It lays a strong foundation for Rwanda’s shift toward a cleaner and more connected future.
 
 Skills Demonstrated: 
 - Machine Learning Modeling 
@@ -70,19 +61,9 @@ Skills Demonstrated:
 ### **Horse Racing Prediction Analysis**
 #### Sep 2024 - Dec 2024
 
-The Horse Racing Prediction Project at Explore AI Academy in 2024 aimed to build a predictive model for horse racing outcomes. It analyzed key factors like race distance, track conditions, horse age, and prize distribution to uncover insights that influence race results. The goal was to enable strategic optimizations for enhancing performance and competitiveness in the field. The project utilized Python for data analysis and integrated interactive exploratory data analysis (EDA) techniques through tools like Plotly. These tools visualized trends and patterns in race data, helping to understand how various conditions impact outcomes. 
+The Horse Racing Prediction Project, undertaken at Explore AI Academy in 2024, aimed to develop a predictive model for horse racing outcomes by analyzing factors like race distance, track conditions, horse age, and prize distribution. Using Python and interactive exploratory data analysis (EDA) tools like Plotly, the project uncovered trends and patterns in race data, shedding light on how various conditions impact performance. Key insights included the influence of track conditions (wet or dry), the performance differences among horse age groups, and the stamina-speed dynamics driven by race distance. Environmental factors, such as temperature, were also found to affect outcomes.
 
-Through comprehensive data exploration, the project identified: 
-- Track Conditions: Surface type (wet or dry) strongly impacts outcomes. 
-- Horse Age Groups: Performance varies significantly with age categories. 
-- Race Distance: Highlights stamina and speed dynamics. 
-- Environmental Factors: External conditions like temperature play a role. 
-
-The project used historical data to isolate critical predictors of race performance. Predictive models were developed to forecast the likelihood of winning under varying conditions, offering actionable insights for trainers, jockeys, and race organizers. 
-
-- Applications Decision Support: Optimize race tactics based on predictions. 
-- Trainer Strategies: Tailored recommendations for improved performance. 
-- Competitor Analysis: Identify favorable conditions for specific horses. 
+Historical data was leveraged to identify critical predictors, and models were built to forecast race results under varying conditions. These insights offer practical applications, including decision support for optimizing race tactics, tailored strategies for trainers to enhance performance, and competitor analysis to identify favorable conditions for specific horses. This project provides actionable tools for trainers, jockeys, and race organizers to improve competitiveness and outcomes in horse racing.
 
 Skills Demonstrated 
 - EDA: Uncovering trends and relationships in the data. 
@@ -96,22 +77,9 @@ Skills Demonstrated
 #### July 2024 - Aug 2024
 - ✨ Unveiling Personalized Anime Recommendations through Unsupervised Learning!
 
-As part of the Fusion-X Network initiative, I collaborated on developing a sophisticated recommender system for anime enthusiasts. This system leverages both collaborative and content-based filtering to deliver highly personalized anime suggestions based on users' historical preferences.
+As part of the Fusion-X Network initiative, I developed a personalized anime recommender system using collaborative and content-based filtering. The project addressed the challenge of navigating the vast anime industry by helping users discover shows aligned with their tastes. Key objectives included accurate user-centric recommendations, an interactive Streamlit interface for seamless exploration, and scalability to handle large datasets efficiently.
 
-Problem Addressed:
-- The anime industry is vast and constantly evolving, with thousands of new shows released annually. Fans often struggle to find new and exciting content aligned with their individual tastes. Our solution provides a targeted approach to solve this, delivering tailored recommendations that enhance user engagement and satisfaction.
-
-Objectives:
-- User-Centric Recommendations: Created a system that accurately predicts a user's potential rating for unseen anime titles, improving discovery of new favorites.
-- Interactive Experience: Developed an engaging user interface using Streamlit, allowing users to explore recommendations seamlessly.
-- Scalability & Performance: Ensured the system could handle large-scale user and content data, maintaining high performance during peak times.
-
-Tools & Technologies Used:
-- Machine Learning: Implemented and evaluated various recommender models, selecting the optimal one based on RMSE.
-- MLOps: Leveraged MLflow to track experiments, ensuring transparency and reproducibility.
-- Deployment: Built and deployed the system using Streamlit for an interactive experience and easy integration.
-
-This project showcases my ability to apply unsupervised learning, MLOps, and web app deployment to build innovative, user-driven solutions that meet real-world demands in the entertainment industry.
+The system leveraged machine learning to predict user ratings for unseen anime, evaluated models using RMSE, and utilized MLflow for tracking and reproducibility. Deployment through Streamlit ensured a user-friendly experience. This project demonstrates my expertise in unsupervised learning, MLOps, and web app development to create impactful, real-world solutions that enhance user engagement in the entertainment industry.
 
 Skills Demonstration: 
 - Recommender System Development
