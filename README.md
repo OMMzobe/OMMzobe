@@ -1,4 +1,9 @@
 # Hi, I'm Oscar Msizi Mzobe! 👋
+## 📬 Contact Me
+- **Email:** [ommzobe@gmail.com](mailto:ommzobe@gmail.com)  
+- **LinkedIn:** [Msizi Mzobe](https://www.linkedin.com/in/msizi-mzobe-8a2255108)  
+
+---
 
 ## 🌟 About Me
 I am a Data Science professional with a passion for solving complex problems through data-driven insights and innovative technologies. As a Data Science Intern at Sand Technologies, I contributed to impactful projects, such as optimizing electric vehicle charging station placements using advanced spatial analysis and machine learning techniques. My expertise includes leveraging tools like Python, H3 spatial indexing, SQL and Power BI to deliver strategic and sustainable infrastructure solutions.
@@ -118,11 +123,6 @@ Skills Demonstration:
 
 ---
 
-## 📬 Contact Me
-- **Email:** [ommzobe@gmail.com](mailto:ommzobe@gmail.com)  
-- **LinkedIn:** [Msizi Mzobe](https://www.linkedin.com/in/msizi-mzobe-8a2255108)  
-
----
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=OMMzobe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
