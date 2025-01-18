@@ -5,11 +5,13 @@
 
 ---
 
-## 🌟 About Me
-I am a Data Science professional with a passion for solving complex problems through data-driven insights and innovative technologies. As a Data Science Intern at Sand Technologies, I contributed to impactful projects, such as optimizing electric vehicle charging station placements using advanced spatial analysis and machine learning techniques. My expertise includes leveraging tools like Python, H3 spatial indexing, SQL and Power BI to deliver strategic and sustainable infrastructure solutions.
+## 🌟 Data Scientist | Data Analysis | Innovative Technologist
 
-I hold a strong foundation in machine learning, artificial intelligence, data visualization, and cloud computing. My skill set includes Python, SQL, AWS, Power BI, and a range of data engineering and analytical tools that enable me to design scalable pipelines and deploy machine learning models effectively.
+I am a data science professional passionate about transforming complex challenges into actionable solutions through data-driven insights and cutting-edge technologies.
 
+As a Data Science Intern at Sand Technologies, I played a pivotal role in optimizing electric vehicle charging station placements by applying advanced spatial analysis and machine learning techniques. Leveraging tools like Python, H3 spatial indexing, SQL, and Power BI, I developed strategic and sustainable solutions that align with modern infrastructure demands.
+
+My expertise spans machine learning, artificial intelligence, data visualization, and cloud computing. I excel at designing scalable data pipelines, deploying machine learning models, and creating impactful visual narratives. My technical toolkit includes Python, SQL, AWS, Power BI, and a suite of data engineering and analytical tools, ensuring effective and efficient problem-solving in dynamic environments.
 
 ---
 
