@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 Data Scientist | Data Analysis | Innovative Technologist
+## 🌟 Data Scientist | Data Analyst | Innovative Technologist
 
 I am a data science professional passionate about transforming complex challenges into actionable solutions through data-driven insights and cutting-edge technologies.
 
