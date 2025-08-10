@@ -50,6 +50,22 @@ My expertise spans machine learning, artificial intelligence, data visualization
 
 ## 🚀 Key Projects
 
+### **Airbnb Price Prediction for Cape Town**
+#### Jul 2025 – Aug 2025
+
+Cape Town’s tourism-driven short-term rental market makes accurate Airbnb pricing crucial for hosts seeking to stay competitive while maximizing revenue. This project built a predictive model for Airbnb listing prices by analyzing property features, location data, and host characteristics from Inside Airbnb’s March 2025 dataset. The workflow included data cleaning, feature engineering (e.g., distance to city center, market segmentation), and extensive exploratory data analysis to identify price drivers such as location, room type, and availability. Multiple machine learning models were tested, with the Random Forest Regressor emerging as the most accurate (R² ≈ 0.95), far outperforming Linear Regression and highlighting the importance of non-linear modeling for price prediction. Recommendations include focusing on Random Forest for deployment, fine-tuning XGBoost to address overfitting, and enriching features with advanced geospatial and amenity data. The result is a robust pricing tool capable of guiding hosts in setting optimal rates and helping investors identify profitable opportunities in Cape Town’s competitive rental market.
+
+Skills Demonstrated:
+
+- Machine Learning Modeling (Random Forest, XGBoost, Linear Regression)
+- Model Evaluation & Optimization
+- Feature Engineering (geospatial, categorical, and market segmentation)
+- Exploratory Data Analysis (EDA) with Plotly, Matplotlib, and Seaborn
+- Python for Data Science
+
+---
+
+
 ### **Electric Vehicle Charging Station Placement**  
 #### Sep 2024 - Dec 2024 
 
@@ -61,22 +77,6 @@ Skills Demonstrated:
 - Geospatial Data Processing 
 - Data Preprocessing & Feature Engineering 
 - Python for Machine Learning
-
----
-
-  
-### **Horse Racing Prediction Analysis**
-#### Sep 2024 - Dec 2024
-
-The Horse Racing Prediction Project, undertaken at Explore AI Academy in 2024, aimed to develop a predictive model for horse racing outcomes by analyzing factors like race distance, track conditions, horse age, and prize distribution. Using Python and interactive exploratory data analysis (EDA) tools like Plotly, the project uncovered trends and patterns in race data, shedding light on how various conditions impact performance. Key insights included the influence of track conditions (wet or dry), the performance differences among horse age groups, and the stamina-speed dynamics driven by race distance. Environmental factors, such as temperature, were also found to affect outcomes.
-
-Historical data was leveraged to identify critical predictors, and models were built to forecast race results under varying conditions. These insights offer practical applications, including decision support for optimizing race tactics, tailored strategies for trainers to enhance performance, and competitor analysis to identify favorable conditions for specific horses. This project provides actionable tools for trainers, jockeys, and race organizers to improve competitiveness and outcomes in horse racing.
-
-Skills Demonstrated 
-- EDA: Uncovering trends and relationships in the data. 
-- Python Programming: Data handling and model development. 
-- Visualization with Plotly: Creating interactive insights. 
-- Predictive Modeling: Forecasting race outcomes accurately. 
 
 ---
 
